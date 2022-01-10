@@ -1,0 +1,502 @@
+[{
+  "_id": "Types",
+  "Agility": "🦵🏻",
+  "Intelligence": "🧠",
+  "Strength": "👊🏻"
+},{
+  "_id": "1",
+  "Name": "Night Ape",
+  "Rarity": "Mythical",
+  "Description": "A detective vigilante in search of his own origins.",
+  "Emoji": "🌕",
+  "Image": "https://i.imgur.com/PHA73M6.png",
+  "Movements": {
+    "The Night Will Hunt You Down": {
+      "Type": "Agility",
+      "Power": "5"
+    },
+    "You Won't Escape": {
+      "Type": "Strength",
+      "Power": "6"
+    },
+    "I Know What You Did": {
+      "Type": "Intelligence",
+      "Power": "9"
+    }
+  }
+},{
+  "_id": "2",
+  "Name": "Amy Lightfoot",
+  "Rarity": "Mythical",
+  "Description": "A righteous and fearless young woman in a quest for growth.",
+  "Emoji": "🐰",
+  "Image": "https://i.imgur.com/dZtZKQe.png",
+  "Movements": {
+    "Super Speed": {
+      "Type": "Agility",
+      "Power": "6"
+    },
+    "Slam Punch": {
+      "Type": "Strength",
+      "Power": "6"
+    },
+    "American Beam": {
+      "Type": "Intelligence",
+      "Power": "6"
+    }
+  }
+},{
+  "_id": "3",
+  "Name": "Gen. Kato Tygorous",
+  "Rarity": "Mythical",
+  "Description": "The role model of Gen City, the leader of the Hero's League.",
+  "Emoji": "🐯",
+  "Image": "https://i.imgur.com/fielPAZ.png",
+  "Movements": {
+    "Clean Cut": {
+      "Type": "Agility",
+      "Power": "9"
+    },
+    "Sucker Punch": {
+      "Type": "Strength",
+      "Power": "4"
+    },
+    "Fire Hazard": {
+      "Type": "Intelligence",
+      "Power": "6"
+    }
+  }
+},{
+  "_id": "6",
+  "Name": "Dr. Vee",
+  "Rarity": "Mythical",
+  "Description": "The genius of the Century, blessed and cursed by Alpha.",
+  "Emoji": "🦎",
+  "Image": "https://i.imgur.com/W63pL8v.png",
+  "Movements": {
+    "Just as planned!": {
+      "Type": "Agility",
+      "Power": "4"
+    },
+    "Why even try?": {
+      "Type": "Strength",
+      "Power": "2"
+    },
+    "A Song of Ice and Fire": {
+      "Type": "Intelligence",
+      "Power": "14"
+    }
+  }
+},{
+  "_id": "9",
+  "Name": "Samurai Chick",
+  "Rarity": "Legendary",
+  "Description": "Serious, but easily irritated. Lacks super powers, but makes up for it in discipline.",
+  "Emoji": "🐤",
+  "Image": "https://i.imgur.com/7zkqOc1.png",
+  "Movements": {
+    "Hack'n Slash": {
+      "Type": "Agility",
+      "Power": "8"
+    },
+    "The sheath is enough": {
+      "Type": "Strength",
+      "Power": "5"
+    },
+    "The floor is (hot) oil": {
+      "Type": "Intelligence",
+      "Power": "3"
+    }
+  }
+},{
+  "_id": "10",
+  "Name": "Horse Samurai",
+  "Rarity": "Legendary",
+  "Description": "A swordsman vigilante, works alone, wants to be the best.",
+  "Emoji": "🐎",
+  "Image": "https://i.imgur.com/V37OWdL.png",
+  "Movements": {
+    "Cutting the Void": {
+      "Type": "Agility",
+      "Power": "6"
+    },
+    "Horse Kick": {
+      "Type": "Strength",
+      "Power": "7"
+    },
+    "Master Sword": {
+      "Type": "Intelligence",
+      "Power": "3"
+    }
+  }
+},{
+  "_id": "5",
+  "Name": "Raiju",
+  "Rarity": "Legendary",
+  "Description": "A cop that generates electricity. She needs a pistol to focus it or it gets out of control.",
+  "Emoji": "⚡",
+  "Image": "https://i.imgur.com/tmcEuEM.png",
+  "Movements": {
+    "Running like Crazy": {
+      "Type": "Agility",
+      "Power": "5"
+    },
+    "Mad Punch": {
+      "Type": "Strength",
+      "Power": "3"
+    },
+    "High Voltage": {
+      "Type": "Intelligence",
+      "Power": "9"
+    }
+  }
+},{
+  "_id": "4",
+  "Name": "Griff",
+  "Rarity": "Legendary",
+  "Description": "Police Captain, he can control water and is also very physically strong.",
+  "Emoji": "🐧",
+  "Image": "https://i.imgur.com/Bwrnd36.png",
+  "Movements": {
+    "Blast of Water": {
+      "Type": "Agility",
+      "Power": "2"
+    },
+    "Water-Chain Punch": {
+      "Type": "Strength",
+      "Power": "10"
+    },
+    "Water Ego": {
+      "Type": "Intelligence",
+      "Power": "6"
+    }
+  }
+},{
+  "_id": "7",
+  "Name": "Frostee",
+  "Rarity": "Legendary",
+  "Description": "A secret agent, she can conjure ice both offensively and defensively.",
+  "Emoji": "❄️",
+  "Image": "https://i.imgur.com/V2QzYl9.png",
+  "Movements": {
+    "Have an Ice Day": {
+      "Type": "Agility",
+      "Power": "5"
+    },
+    "Nonsense Move": {
+      "Type": "Strength",
+      "Power": "4"
+    },
+    "Heaven-Piercing Ice Wall": {
+      "Type": "Intelligence",
+      "Power": "8"
+    }
+  }
+},{
+  "_id": "12",
+  "Name": "Shaman",
+  "Rarity": "Legendary",
+  "Description": "A creature with powers beyond animal understanding.",
+  "Emoji": "💀",
+  "Image": "https://i.imgur.com/ke4iff1.png",
+  "Movements": {
+    "Wait! I'm a hero! AAAH": {
+      "Type": "Agility",
+      "Power": "5"
+    },
+    "Kicking Ass": {
+      "Type": "Strength",
+      "Power": "4"
+    },
+    "Spirits Call": {
+      "Type": "Intelligence",
+      "Power": "7"
+    }
+  }
+},{
+  "_id": "8",
+  "Name": "Koa",
+  "Rarity": "Legendary",
+  "Description": "A secret agent and martial arts expert, he can move so fast it looks like a teleport.",
+  "Emoji": "🐼",
+  "Image": "https://i.imgur.com/rNQx7bj.png",
+  "Movements": {
+    "God Speed": {
+      "Type": "Agility",
+      "Power": "10"
+    },
+    "Warp Punch": {
+      "Type": "Strength",
+      "Power": "5"
+    },
+    "Where should I go now?": {
+      "Type": "Intelligence",
+      "Power": "3"
+    }
+  }
+},{
+  "_id": "11",
+  "Name": "Bofa",
+  "Rarity": "Legendary",
+  "Description": "An inspiration for the youth, this prodigal Hero is thought to be the next Kato.",
+  "Emoji": "🐳",
+  "Image": "https://i.imgur.com/TsqnB9B.png",
+  "Movements": {
+    "Surfing the Weird Waves": {
+      "Type": "Agility",
+      "Power": "2"
+    },
+    "Tidal Headbutt": {
+      "Type": "Strength",
+      "Power": "9"
+    },
+    "Right on time!": {
+      "Type": "Intelligence",
+      "Power": "7"
+    }
+  }
+},{
+  "_id": "13",
+  "Name": "Rat Rider",
+  "Rarity": "Legendary",
+  "Description": "A super strong leader of a biker's gang in search of his brother.",
+  "Emoji": "🐀",
+  "Image": "https://i.imgur.com/MS4oXi4.png",
+  "Movements": {
+    "Fast and Chill": {
+      "Type": "Agility",
+      "Power": "4"
+    },
+    "Gotta Punch Fast": {
+      "Type": "Strength",
+      "Power": "9"
+    },
+    "Ratatouille": {
+      "Type": "Intelligence",
+      "Power": "2"
+    }
+  }
+},{
+  "_id": "23",
+  "Name": "Zoe Quicktrigger",
+  "Rarity": "Legendary",
+  "Description": "The current mafia boss, trapped in a web of intrigue and backstabbing.",
+  "Emoji": "🚬",
+  "Image": "https://i.imgur.com/BxQJKPu.png",
+  "Movements": {
+    "Lemme shoot ya real quick": {
+      "Type": "Agility",
+      "Power": "9"
+    },
+    "Buttstroke": {
+      "Type": "Strength",
+      "Power": "2"
+    },
+    "Covered in Blood": {
+      "Type": "Intelligence",
+      "Power": "5"
+    }
+  }
+},{
+  "_id": "22",
+  "Name": "Bella Bash",
+  "Rarity": "Legendary",
+  "Description": "Unpredictable, chaotic and mildly insane. This one is hard to describe unless you've met her.",
+  "Emoji": "✨",
+  "Image": "https://i.ibb.co/HNN9r9P/v14.png",
+  "Movements": {
+    "Shooting Star": {
+      "Type": "Agility",
+      "Power": "5"
+    },
+    "Death Bat": {
+      "Type": "Strength",
+      "Power": "8"
+    },
+    "Killing Spree": {
+      "Type": "Intelligence",
+      "Power": "2"
+    }
+  }
+},{
+  "_id": "20",
+  "Name": "Banana Man",
+  "Rarity": "Legendary",
+  "Description": "An experiment gone wrong, in search of revenge. The pinacle of physical might.",
+  "Emoji": "🍌",
+  "Image": "https://i.ibb.co/H7WsyLQ/Izklx4RQ.png",
+  "Movements": {
+    "Stumble": {
+      "Type": "Agility",
+      "Power": "5"
+    },
+    "Banana Punch": {
+      "Type": "Strength",
+      "Power": "12"
+    },
+    "I have the IQ of a banana!": {
+      "Type": "Intelligence",
+      "Power": "1"
+    }
+  }
+},{
+  "_id": "21",
+  "Name": "Borax Bloodtusk",
+  "Rarity": "Legendary",
+  "Description": "A cult leader looking for something beyond the realms of frontier.",
+  "Emoji": "🌀",
+  "Image": "https://i.ibb.co/d6g5xLG/v2.png",
+  "Movements": {
+    "Running Boar": {
+      "Type": "Agility",
+      "Power": "2"
+    },
+    "Iron Horn": {
+      "Type": "Strength",
+      "Power": "5"
+    },
+    "Some Big Brain Stuff": {
+      "Type": "Intelligence",
+      "Power": "8"
+    }
+  }
+},{
+  "_id": "17",
+  "Name": "Duma",
+  "Rarity": "Legendary",
+  "Description": "A mastermind of deception, capable of instilling fear, uncertainty and doubt on whoever listens.",
+  "Emoji": "📹",
+  "Image": "https://i.ibb.co/DGKzP5z/v3.png",
+  "Movements": {
+    "Dodging Law Suits": {
+      "Type": "Agility",
+      "Power": "5"
+    },
+    "I ain't doing fake news!": {
+      "Type": "Strength",
+      "Power": "1"
+    },
+    "FUD Cloud": {
+      "Type": "Intelligence",
+      "Power": "10"
+    }
+  }
+},{
+  "_id": "19",
+  "Name": "Mad Boogie",
+  "Rarity": "Legendary",
+  "Description": "A sociopath, master of explosives.",
+  "Emoji": "🧨",
+  "Image": "https://i.ibb.co/cFS8Pv3/v5.png",
+  "Movements": {
+    "Doge Run": {
+      "Type": "Agility",
+      "Power": "5"
+    },
+    "Biting Like a Mad Dog": {
+      "Type": "Strength",
+      "Power": "2"
+    },
+    "Bang!": {
+      "Type": "Intelligence",
+      "Power": "9"
+    }
+  }
+},{
+  "_id": "14",
+  "Name": "Colonel Attikus Trask",
+  "Rarity": "Legendary",
+  "Description": "An assassin capable of canceling the oponents powers to put them at a disadvantage.",
+  "Emoji": "🐈‍⬛",
+  "Image": "https://i.ibb.co/ZLnzHxP/v4.png",
+  "Movements": {
+    "Cat's Leap": {
+      "Type": "Agility",
+      "Power": "5"
+    },
+    "Deadly Scratch": {
+      "Type": "Strength",
+      "Power": "9"
+    },
+    "Null and Void": {
+      "Type": "Intelligence",
+      "Power": "3"
+    }
+  }
+},{
+  "_id": "15",
+  "Name": "Axl",
+  "Rarity": "Legendary",
+  "Description": "A smart and lethal gangster, the blade on his head can cut almost anything.",
+  "Emoji": "🦈",
+  "Image": "https://i.ibb.co/DkN88fr/v9.png",
+  "Movements": {
+    "Cutting Head": {
+      "Type": "Agility",
+      "Power": "7"
+    },
+    "Look at my abs!": {
+      "Type": "Strength",
+      "Power": "5"
+    },
+    "I use my mind to do evil!": {
+      "Type": "Intelligence",
+      "Power": "4"
+    }
+  }
+},{
+  "_id": "16",
+  "Name": "Bolo",
+  "Rarity": "Legendary",
+  "Description": "A power hungry gorilla with the ability to see through things and detect weaknesses.",
+  "Emoji": "🥷",
+  "Image": "https://i.ibb.co/q5R4CYP/v7.png",
+  "Movements": {
+    "Ninja Moves": {
+      "Type": "Agility",
+      "Power": "5"
+    },
+    "One Punch Gorilla": {
+      "Type": "Strength",
+      "Power": "9"
+    },
+    "nanas yummy": {
+      "Type": "Intelligence",
+      "Power": "1"
+    }
+  }
+},{
+  "_id": "18",
+  "Name": "Amp",
+  "Rarity": "Legendary",
+  "Description": "Animalized chaos, her body can accumulate and release large ammounts of static electricity.",
+  "Emoji": "💥",
+  "Image": "https://i.ibb.co/9WhWgKp/v8.png",
+  "Movements": {
+    "The Chaos Theory": {
+      "Type": "Agility",
+      "Power": "8"
+    },
+    "Last Resource": {
+      "Type": "Strength",
+      "Power": "3"
+    },
+    "We Truly Live in a Society": {
+      "Type": "Intelligence",
+      "Power": "5"
+    }
+  }
+},{
+  "_id": "24",
+  "Name": "Icon, the Jester",
+  "Rarity": "Legendary",
+  "Description": "???",
+  "Emoji": "🃏",
+  "Image": "https://i.imgur.com/bNk0x8C.png",
+  "Movements": {
+    "[inserts innapropriate but appropriate MEME asap]": {
+      "Type": "Agility",
+      "Power": "10"
+    }
+  }
+}]
